@@ -23,4 +23,4 @@ The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA)
 House prices can be predicted with 90% accuracy using top Cubist tuned algorithm. The error rate of our top model is plus or minus $3.2 thousand.Business objective has been achieved.
 
 ## Predictions of Top 10 Rows on New Dataset
-![Visual 1]()
+![Visual 1](https://github.com/jlbrosnahan/Predict-House-Prices/blob/master/Preds_Top10_Rows.jpeg)
