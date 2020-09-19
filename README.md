@@ -1,6 +1,6 @@
 ## Predict House Prices 
 Predicting Boston house prices in RStudio
-* Complete analysis can be viewed in RPubs at 
+* Complete analysis can be viewed in RPubs at https://rpubs.com/brosnahj/Boston-House-Predictions
 * Complete analysis can also be viewed in Predict-House-Prices.md file above
 
 ## Background
